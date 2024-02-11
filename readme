@@ -1,0 +1,12 @@
+How long did you spend on this assignment?
+I spent almost 24 hours setting up and starting to code. I also have some hands-on practice with Git and coding.
+
+Based on your effort, what letter grade would you say you earned?
+Based on the effect, i would likely receive a grade around 'A' or 'A-'. It correctly solves the problem.
+
+Based on your solution, what letter grade would you say you earned?
+Based on the criteria of functionality, efficiency, code style, best practices, and scalability, i would likely receive a grade around 'A' or 'A-'. It correctly solves the problem.
+
+Provide a summary of what doesn't work in your solution, along with an explanation of how you attempted to solve the problem and where you feel you struggled.
+Creates a linked list for sparse matrix representation but could face issues with memory management due to dynamic allocation without deletion, potentially leading to memory leaks.
+It also uses variable-length arrays, a non-standard feature in C++, which might not be compatible with all compilers.
